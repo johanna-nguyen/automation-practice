@@ -3,3 +3,9 @@ function sayHello(name) {
 }
 
 console.log(sayHello("Johanna"));
+
+
+function sayGoodbye(name) {    return "Goodbye, " + name + "!";
+}
+
+console.log(sayGoodbye("Johanna"));
