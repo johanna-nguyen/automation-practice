@@ -1,1 +1,3 @@
-const config = {apiUrl: http://production.example.com};
+const config ={ 
+    apiUrl: http://api.example.com
+    };
