@@ -1,1 +1,1 @@
-const config = { apiUrl: http://localhost:3000};
+const config ={ apiUrl: http://api.example.com};
